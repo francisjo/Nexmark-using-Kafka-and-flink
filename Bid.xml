@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<site>
+<open_auctions>
+	<open_auction id="78">
+		<itemref item="78"></itemref>
+		<seller person="44"></seller>
+		<category>91</category>
+		<quantity>2</quantity>
+		<type>Featured</type>
+		<interval><start>4621</start><end>83352</end></interval>
+	</open_auction>
+</open_auctions>
+<open_auctions>
+	<open_auction id="48">
+		<bidder>
+			<time>4657</time>
+			<person_ref person="29"></person_ref>
+			<bid>195.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="18">
+		<bidder>
+			<time>4657</time>
+			<person_ref person="21"></person_ref>
+			<bid>249.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="48">
+		<bidder>
+			<time>4657</time>
+			<person_ref person="0"></person_ref>
+			<bid>195.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="40">
+		<bidder>
+			<time>4657</time>
+			<person_ref person="36"></person_ref>
+			<bid>113.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="18">
+		<bidder>
+			<time>4657</time>
+			<person_ref person="21"></person_ref>
+			<bid>22.00</bid>
+		</bidder>
+	</open_auction>
+</open_auctions>
+<open_auctions>
+	<open_auction id="1051">
+		<privacy>yes</privacy>
+		<itemref item="1051"></itemref>
+		<seller person="50"></seller>
+		<category>102</category>
+		<quantity>3</quantity>
+		<type>Featured, Dutch</type>
+		<interval><start>65396</start><end>126653</end></interval>
+	</open_auction>
+	<open_auction id="1052">
+		<privacy>yes</privacy>
+		<itemref item="1052"></itemref>
+		<seller person="4"></seller>
+		<category>223</category>
+		<quantity>7</quantity>
+		<type>Featured</type>
+		<interval><start>65396</start><end>112980</end></interval>
+	</open_auction>
+</open_auctions>
+<open_auctions>
+	<open_auction id="617">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="69"></person_ref>
+			<bid>122.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="431">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="5"></person_ref>
+			<bid>321.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="1023">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="58"></person_ref>
+			<bid>138.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="990">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="42"></person_ref>
+			<bid>233.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="266">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="21"></person_ref>
+			<bid>295.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="137">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="88"></person_ref>
+			<bid>466.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="745">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="85"></person_ref>
+			<bid>175.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="236">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="123"></person_ref>
+			<bid>269.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="158">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="54"></person_ref>
+			<bid>549.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="753">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="132"></person_ref>
+			<bid>140.00</bid>
+		</bidder>
+	</open_auction>
+	<open_auction id="351">
+		<bidder>
+			<time>65373</time>
+			<person_ref person="11"></person_ref>
+			<bid>347.00</bid>
+		</bidder>
+	</open_auction>
+</open_auctions>	
+</site>
+
